@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import './App.css'
-import {multiply , add, } from './calculation.jsx'
+import {multiply , add,subtract } from './calculation.jsx'
 
 function App() {
   return(
