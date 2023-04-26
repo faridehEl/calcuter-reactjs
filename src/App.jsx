@@ -9,6 +9,7 @@ function App() {
     <ul>
     <li>{multiply(2 , 3)}</li>
       <li>{add(2 , 3)}</li>
+      <li>{subtract(600,10)}</li>
     </ul>
   </section>)
 
